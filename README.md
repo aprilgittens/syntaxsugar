@@ -22,8 +22,8 @@ I don't just teach Python, I teach you how to learn Python using modern AI tools
 
 ### Foundation (Streams 1-8)
 
-- ✅ [Stream 1: Environment Setup](streams\01-environment-setup)
-- 📅 [Stream 2: Variables and Data Types](streams\02-variables-and-data-types)
+- ✅ [Stream 1: Environment Setup](streams/01-environment-setup)
+- 📅 [Stream 2: Variables and Data Types](streams/02-variables-and-data-types)
 - 📅 Stream 3: Basic Operators
 - 📅 Stream 4: Conditional Statememts (if/elif/else)
 - 📅 Stream 5: Lists
@@ -57,7 +57,7 @@ I don't just teach Python, I teach you how to learn Python using modern AI tools
 
 ## 📖 Additional Resources
 
-- [AI Prompting Guide](https://www.notion.so/resources/ai-prompting-guide.md)
+- [AI Prompting Guide](resources/AI-prompting-guide.md)
 
 ## 🙌 Support
 

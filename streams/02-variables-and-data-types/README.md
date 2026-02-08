@@ -21,7 +21,7 @@ Learn the foundation of Python programming: how to store data in variables and w
 
 ## ✅ Prerequisites
 
-- Completed [Stream 1](streams\01-environment-setup) (environment setup)
+- Completed [Stream 1](streams/01-environment-setup) (environment setup)
 - Python and VS Code installed
 - [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) configured (optional but recommended)
 
@@ -55,15 +55,15 @@ Learn the foundation of Python programming: how to store data in variables and w
 
 ### Part 5: Code Examples
 
-All code from this stream is in the [`code/`](streams\02-variables-and-data-types\code) folder:
+All code from this stream is in the [`code/`](streams/02-variables-and-data-types/code) folder:
 
-- [variables.py](streams\02-variables-and-data-types\code\variables.py)- Basic variable creation and usage
-- [strings.py](streams\02-variables-and-data-types\code\strings.py)- Working with text
-- [numbers.py](streams\02-variables-and-data-types\code\numbers.py)- Integers and floats
-- [booleans.py](streams\02-variables-and-data-types\code\booleans.py)- True/False values
-- [type_errors.py](streams\02-variables-and-data-types\code\type_errors.py) - Common mistakes and fixes
-- [conversions.py](streams\02-variables-and-data-types\code\conversions.py) - Converting between types
-- [types_mistakes.py](streams\02-variables-and-data-types\code\type_mistakes.py) - Common mistakes
+- [variables.py](streams/02-variables-and-data-types/code/variables.py)- Basic variable creation and usage
+- [strings.py](streams/02-variables-and-data-types/code/strings.py)- Working with text
+- [numbers.py](streams\02-variables-and-data-types/code/numbers.py)- Integers and floats
+- [booleans.py](streams\02-variables-and-data-types/code/booleans.py)- True/False values
+- [type_errors.py](streams\02-variables-and-data-types/code/type_errors.py) - Common mistakes and fixes
+- [conversions.py](streams\02-variables-and-data-types/code/conversions.py) - Converting between types
+- [types_mistakes.py](streams\02-variables-and-data-types/code/type_mistakes.py) - Common mistakes
 
 ### Part 6: Common Mistakes & Fixes
 
