@@ -61,7 +61,7 @@ All code from this stream is in the [`code/`](code) folder:
 - [strings.py](code/strings.py) - Working with text
 - [numbers.py](code/numbers.py) - Integers and floats
 - [booleans.py](code/booleans.py) - True/False values
-- [type_errors.py](code/type-errors.py) - Common mistakes and fixes
+- [type_errors.py](code/type_errors.py) - Common mistakes and fixes
 - [conversions.py](code/conversions.py) - Converting between types
 - [types_mistakes.py](code/types_mistakes.py) - Common mistakes
 
