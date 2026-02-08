@@ -55,15 +55,15 @@ Learn the foundation of Python programming: how to store data in variables and w
 
 ### Part 5: Code Examples
 
-All code from this stream is in the [`code/`](streams/02-variables-and-data-types/code) folder:
+All code from this stream is in the [`code/`](code) folder:
 
-- [variables.py](streams/02-variables-and-data-types/code/variables.py)- Basic variable creation and usage
-- [strings.py](streams/02-variables-and-data-types/code/strings.py)- Working with text
-- [numbers.py](streams\02-variables-and-data-types/code/numbers.py)- Integers and floats
-- [booleans.py](streams\02-variables-and-data-types/code/booleans.py)- True/False values
-- [type_errors.py](streams\02-variables-and-data-types/code/type_errors.py) - Common mistakes and fixes
-- [conversions.py](streams\02-variables-and-data-types/code/conversions.py) - Converting between types
-- [types_mistakes.py](streams\02-variables-and-data-types/code/type_mistakes.py) - Common mistakes
+- [variables.py](code/variables.py) - Basic variable creation and usage
+- [strings.py](code/strings.py) - Working with text
+- [numbers.py](code/numbers.py) - Integers and floats
+- [booleans.py](code/booleans.py) - True/False values
+- [type_errors.py](code/type-errors.py) - Common mistakes and fixes
+- [conversions.py](code/conversions.py) - Converting between types
+- [types_mistakes.py](code/types_mistakes.py) - Common mistakes
 
 ### Part 6: Common Mistakes & Fixes
 

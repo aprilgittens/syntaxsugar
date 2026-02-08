@@ -62,10 +62,10 @@ Get your computer ready for Python development! This stream walks you through in
 
 ## 💻 Code Examples
 
-All code from this stream is in the [`code/`](streams/01-environment-setup\code) folder:
+All code from this stream is in the [`code/`](code) folder:
 
-- [helloworld.py](streams/01-environment-setup/code/helloworld.py) - Your first Python program
-- [copilot-instructions.md](streams/01-environment-setup/code/copilot-instructions.md) - Custom instructions for GitHub Copilot
+- [helloworld.py](code/helloworld.py) - Your first Python program
+- [copilot-instructions.md](code/copilot-instructions.md) - Custom instructions for GitHub Copilot
 
 ## 📖 Resources
 
