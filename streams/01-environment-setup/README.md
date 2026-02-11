@@ -1,10 +1,10 @@
 # Stream 1: Environment Setup
 
-**Status:** [Scheduled](https://youtube.com/live/2TvFZm6W_OI?feature=share)
+**Status:** Complete
 
 **Date:** January 10, 2026
 
-**Video:** Coming Soon
+**Video:** [Watch Now!]((https://youtube.com/live/2TvFZm6W_OI?feature=share))
 
 ## 📋 Overview
 
