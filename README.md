@@ -16,7 +16,7 @@ I don't just teach Python, I teach you how to learn Python using modern AI tools
 
 - **Schedule:** Tuesdays & Thursday 11AM PT
 - **Platform:** [YouTube](https://youtube.com/@prettywiredbuilds)
-- **Next Stream:** Environment Setup - January 10
+- **Next Stream:** [Variables & Data Types](https://youtube.com/live/btz9Ruo4p6M?feature=share)
 
 ## 📚 Series Structure
 
