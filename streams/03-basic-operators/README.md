@@ -1,4 +1,4 @@
-# Stream 3: Basic Operators - Making Python Do Math and Logic
+# Stream 3: Basic Operators
 
 **Status:** Scheduled
 
