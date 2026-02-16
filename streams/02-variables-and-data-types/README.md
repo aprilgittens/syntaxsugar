@@ -53,7 +53,14 @@ Learn the foundation of Python programming: how to store data in variables and w
 - Asking AI about type errors
 - Asking AI about naming best practices
 
-### Part 5: Code Examples
+### Part 5: Common Mistakes & Fixes
+
+- Quotes around numbers
+- Forgetting quotes on strings
+- Type mixing
+- Using reserved words
+
+## 💻 Code Examples
 
 All code from this stream is in the [`code/`](code) folder:
 
@@ -64,13 +71,6 @@ All code from this stream is in the [`code/`](code) folder:
 - [type_errors.py](code/type_errors.py) - Common mistakes and fixes
 - [conversions.py](code/conversions.py) - Converting between types
 - [types_mistakes.py](code/types_mistakes.py) - Common mistakes
-
-### Part 6: Common Mistakes & Fixes
-
-- Quotes around numbers
-- Forgetting quotes on strings
-- Type mixing
-- Using reserved words
 
 ## 📖 Additional Resources
 

@@ -16,16 +16,16 @@ I don't just teach Python, I teach you how to learn Python using modern AI tools
 
 - **Schedule:** Tuesdays & Thursday 11AM PT
 - **Platform:** [YouTube](https://youtube.com/@prettywiredbuilds)
-- **Next Stream:** [Variables & Data Types](https://youtube.com/live/btz9Ruo4p6M?feature=share)
+- **Next Stream:** [Basic Operators](https://youtube.com/live/jDi4aL4lb8I?feature=share)
 
 ## 📚 Series Structure
 
 ### Foundation (Streams 1-8)
 
 - ✅ [Stream 1: Environment Setup](streams/01-environment-setup)
-- 📅 [Stream 2: Variables and Data Types](streams/02-variables-and-data-types)
-- 📅 Stream 3: Basic Operators
-- 📅 Stream 4: Conditional Statememts (if/elif/else)
+- ✅ [Stream 2: Variables and Data Types](streams/02-variables-and-data-types)
+- 📅 [Stream 3: Basic Operators](streams/03-basic-operators/)
+- 📅 [Stream 4: Conditional Statememts (if/elif/else)](streams/04-conditional-statements/)
 - 📅 Stream 5: Lists
 - 📅 Stream 6: Loops - While
 - 📅 Stream 7: Loops - For
