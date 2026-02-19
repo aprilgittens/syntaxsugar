@@ -1,10 +1,10 @@
 # Stream 4: Conditional Statements
 
-**Status:** Scheduled
+**Status:** Complete
 
 **Date:** February 19, 2026
 
-**Video:** Coming Soon
+**Video:** [Watch now!](https://youtube.com/live/7OfNvTGcXLE?feature=share)
 
 ## 📋 Overview
 
