@@ -1,10 +1,10 @@
 # Stream 2: Variables and Data Types
 
-**Status:** [Scheduled](https://youtube.com/live/btz9Ruo4p6M?feature=share)
+**Status:** Complete
 
 **Date:** January 12, 2026
 
-**Video:** Coming Soon
+**Video:** [Watch now!](https://youtube.com/live/btz9Ruo4p6M?feature=share)
 
 ## 📋 Overview
 

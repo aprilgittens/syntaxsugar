@@ -1,10 +1,10 @@
 # Stream 3: Basic Operators
 
-**Status:** Scheduled
+**Status:** Complete
 
 **Date:** February 17, 2026
 
-**Video:** Coming Soon
+**Video:** [Watch now!](https://youtube.com/live/jDi4aL4lb8I?feature=share)
 
 ## 📋 Overview
 
